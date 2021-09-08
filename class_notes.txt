@@ -69,6 +69,72 @@ download locally
 
 
 
+Syllabus
+********
+1) Typography
+
+2) Tables
+
+3) Images
+
+4) Jumbotron
+
+5) Alerts
+
+6) Buttons
+
+7) Badges
+
+8) Progress Bars
+
+9) Spinners
+
+10) Paginations
+
+11) Lists
+
+12) Cards
+
+13) Dropdowns
+
+14) NavBars
+
+15) Carousel
+
+16) Modal
+
+17) Toast
+
+18) Tooltips
+
+19) Scrollspy
+
+20) Popover
+
+21) Forms
+
+22) Media Objects
+
+23) Grid Box
+
+24) Font awasome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
